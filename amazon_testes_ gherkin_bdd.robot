@@ -15,7 +15,7 @@ Test Teardown        Fechar o navegador
     Quando acessar o menu "Livros"
     Então o título da página deve ficar "Livros | Amazon.com.br"
     E o texto "Loja de Livros" deve ser exibido na página
-    # E a categoria "Livros em Oferta" deve ser exibida na página
+    E a categoria "Livros em Oferta" deve ser exibida na página
 
 
 

@@ -6,11 +6,11 @@ Este repositorio contem uma automação de Teste Web, utilizando o site da Amazo
 
 # Tecnologias Utilizadas
 
--https://robotframework.org/
--https://www.python.org/
--https://code.visualstudio.com/
--https://stackedit.io/app#
--https://blog.rocketseat.com.br/como-fazer-um-bom-readme/
+- https://robotframework.org/
+- https://www.python.org/
+- https://code.visualstudio.com/
+- https://stackedit.io/app#
+- https://blog.rocketseat.com.br/como-fazer-um-bom-readme/
 
 ## Testes Automatizados
 
@@ -28,7 +28,8 @@ Adicionar Produto no carrinho
 
 ## Notas Gerais
 Para rodar o projeto
--robot -d ./log amazon_testes.robot
--robot -d ./log amazon_gherkin_bdd.robot
+- robot -d ./log amazon_testes.robot
+
+- robot -d ./log amazon_gherkin_bdd.robot
 
 <h4 align="center"> 🚧 Projeto de Estudo 🚀 Em construção... 🚧 </h4>
